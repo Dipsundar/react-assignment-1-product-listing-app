@@ -1,4 +1,4 @@
-# React assigment - 1 : Product listing App
+# React assigment - 1 : Country Flags App
 
 
 
